@@ -1,5 +1,5 @@
 # 🎙 AI Voice Agent  
-*(30 Days of AI Voice Agents - Day 13)*
+*(30 Days of AI Voice Agents )*
 
 An interactive **voice-based conversational AI agent** that records your speech, transcribes it to text, generates intelligent and context-aware replies using **Google Gemini**, and responds back using **Murf AI’s Text-to-Speech** — all while **maintaining chat history** for each session.
 
